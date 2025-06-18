@@ -8,3 +8,6 @@ new line 6 is added now.
 
 
 line 7 is added in master branch which is added by new user.
+
+
+line 8 added as a new line
