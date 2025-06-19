@@ -1,1 +1,2 @@
 this is a new text file added.
+this is a new line added in master
